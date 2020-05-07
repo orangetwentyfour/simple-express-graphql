@@ -2,6 +2,7 @@
 
 The way to start the project
 > npm i
+
 > npm start
 
 Your server now is starting at port 3000 by default.
